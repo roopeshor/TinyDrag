@@ -1,0 +1,26 @@
+{
+  "name": "tinydrag",
+  "version": "1.0.0",
+  "description": "A tiny JS library that helps to add drag and drop feature to drawings in canvas.",
+  "main": "tinydrag-esm.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Roopesh2/TinyDrag.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Roopesh2/TinyDrag/issues"
+  },
+  "homepage": "https://github.com/Roopesh2/TinyDrag#readme",
+  "devDependencies": {
+    "google-closure-compiler": "^20210601.0.0"
+  }
+}
