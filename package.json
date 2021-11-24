@@ -1,5 +1,5 @@
 {
-  "name": "@roopesh2/tinydrag",
+  "name": "tinydrag",
   "version": "1.0.0",
   "description": "A tiny JS library that helps to add drag and drop feature to drawings in canvas.",
   "main": "tinydrag-esm.js",
