@@ -17,7 +17,7 @@ let mousedown = false,
  * @param {function} [options.onSelectionOut] when user clicks on none of the points
  * @param {function} [options.onSelect] when user clicks on a point
  */
-export function tinyDrag(context, points, options = {}) {
+exports.tinyDrag = function (context, points, options = {}) {
   let canvas = context.canvas;
   canvas.addEventListener("mousedown", (e) => {
     let x = e.offsetX,
